@@ -1,0 +1,530 @@
+[
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "dr_awesome",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by dr_awesome was marked lame too many times and excluded. (marked lame by ohmygooses, cryptfiend85, j_a_s_e)"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "straw",
+    "plus": 4,
+    "snip": false,
+    "text": "My feelings on this asset are Pro"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "deimosrising",
+    "plus": 21,
+    "snip": false,
+    "text": "It really peaks on disk 4, disk 5 is kind of an anticlimax."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "centipede_damascus",
+    "plus": 14,
+    "snip": false,
+    "text": "Disk Six is just cuddling writ in zeroes and ones."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "stuart",
+    "plus": 19,
+    "snip": false,
+    "text": "PUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 1 <br/> \nPUSH 2 <br/> \nPUSH 2 <br/> \nPUSH 2 <br/> \nPUSH 2 <br/> \nPUSH 4 <br/> \nPUSH 4 <br/> \nPUSH 8 <br/> \nPOP"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "shoinan",
+    "plus": 29,
+    "snip": false,
+    "text": "I'd imagine the longer Vlad's code is, hte better he does with the ladies. For example, a short code: <br/> \n <br/> \n10 ACHIEVE ROBOT ORGASM <br/> \n20 IF POSSIBILITY OF ANOTHER ORGASM > 0.5 GOTO 10 ELSE GOTO 30 <br/> \n30 SLEEP MODE"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "cpnglxynchos",
+    "plus": 5,
+    "snip": false,
+    "text": "i'm afraid that many guys are wired with that innate programming as well."
+  },
+  {
+    "depth": 5,
+    "minus": 1,
+    "name": "mastronaut",
+    "plus": 67,
+    "snip": false,
+    "text": "oh man, Vlad codes his sexual escapades in BASIC... he seemed more like an object-oriented man to me. <br/> \n <br/> \nset Woman.Clothinks(0); <br/> \nset Woman.Legs((string)\"open\"); <br/> \n <br/> \nSexy.WeAreToBeDoinkThisTonight();"
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "thesyndicate88",
+    "plus": 0,
+    "snip": false,
+    "text": "Chubbied for getting Vlad's pronunciation perfect."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "ghede",
+    "plus": 0,
+    "snip": false,
+    "text": "What language is that? I've not encountered a language you need to cast a string literal before. Or is that just a style thing?"
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "mastronaut",
+    "plus": 0,
+    "snip": false,
+    "text": "I was thinking of Java when I wrote it, but I forgot the syntax a little bit."
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "ghede",
+    "plus": 1,
+    "snip": false,
+    "text": "Yeah, it looks like Java, and the syntax is valid. The (string) is unnecessary, but it would still work."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "riazm",
+    "plus": 8,
+    "snip": false,
+    "text": "Ha ha you guys are nerds!!! <br/> \n <br/> \n...I am also a nerd, can we be friends? I like genetic algorithms, microarchitecture design and my favourite editor is EMACS. <br/> \n <br/> \nMy turn offs are people who talk on the phone and my turn ons are buckling spring keyboards and rock hard cat cock."
+  },
+  {
+    "depth": 10,
+    "minus": 0,
+    "name": "tellumo",
+    "plus": 1,
+    "snip": false,
+    "text": "Let's hear it for buckling-spring keyboards. It's a pity they don't make the IBM Model M keyboard in a USB variant. I need to choose between a sturdy keyboard with which you can knock out like a dozen strong men and spill a pint of rye into it before it even starts to get a little dodgy, but that has an ancient 1970s DIN plug on it and a keyboard with a USB connector (which, let's face it, has been the standard for the better part of a decade) but that has that cheesy plastic-dome stuff going on and is made by people who think that you'll be buying a new one within the year anyway."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "belgand",
+    "plus": 1,
+    "snip": false,
+    "text": "Why do you need USB? I've been using the same keyboard since '95. So what if it needs an AT->ATX adapter. It works and it doesn't have any damn Windows key."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "mirzabah",
+    "plus": 0,
+    "snip": false,
+    "text": "So I read this, and I Google IBM Model M, and I find out that  <em>I have this keyboard.</em>  I have had it for years and always loved it, and now I love it even more. Thanks for being the instrument of my illumination."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "fancyrat",
+    "plus": 0,
+    "snip": false,
+    "text": "Chubbied for the effort. And the  <em>beauty</em> ."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "laserblade",
+    "plus": 1,
+    "snip": false,
+    "text": "Well, if it were capitalized, yeah."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "tessebatt",
+    "plus": 0,
+    "snip": false,
+    "text": "One thing I love about Achewood's East-European robot character* is that it brings about comments like these. <br/> \n <br/> \n*Vlad"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "mnemodomi",
+    "plus": 2,
+    "snip": false,
+    "text": "in between push 1 and push 2 there is a peek though"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "greyfield",
+    "plus": 0,
+    "snip": false,
+    "text": "I have to wonder... how does he deal with changing disks mid-coitus? <br/> \n <br/> \n\"Oh, oh, hank on baby, disk stuck. Do you have paperclip?\""
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "cryptfiend85",
+    "plus": 9,
+    "snip": false,
+    "text": "Robot relations are complicated by media format incompatibility. Dudes with floppies are at a disadvantage in an age where the USB drive is favored and Bluetooth is the lingua franca."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "j_a_s_e",
+    "plus": 2,
+    "snip": false,
+    "text": "I think Vlad would pack an external hard-drive. He [i]is[i/] the Make Out King after all."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "killerlimpet",
+    "plus": 7,
+    "snip": false,
+    "text": "Oh Vlad baby, you make me feel so Turing complete..."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "lacrimus",
+    "plus": 21,
+    "snip": false,
+    "text": "Dudes with floppies are always at a disadvantage, robot or no."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "stuart",
+    "plus": 7,
+    "snip": false,
+    "text": "Bluetooth is the robot equivalent of a hippy fuck fest"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "k_buttsworthe",
+    "plus": 3,
+    "snip": false,
+    "text": "sometimes they do it via IM. there are some specialized emoticons you can buy."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "cpnglxynchos",
+    "plus": 3,
+    "snip": false,
+    "text": "only $10k up front."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "vreeeee",
+    "plus": 3,
+    "snip": false,
+    "text": "do what i did"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "saint",
+    "plus": 4,
+    "snip": false,
+    "text": "many get it on the wireless way...many. and the orgasm sounds more like a bunch of popups at once."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "suprememongoose",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by suprememongoose was marked lame too many times and excluded. (marked lame by tttt, tttt2, Connellingus, STUART)"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": false,
+    "text": "What is Norris about to kick in the moster? a Monkey with Nunchaku?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "pohlhoud",
+    "plus": 4,
+    "snip": false,
+    "text": "It looks like something you would see... <br/> \n <br/> \non a CRAZY SUNDAY!"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "jonnay",
+    "plus": 0,
+    "snip": false,
+    "text": "Boy, was that ever a crazy Sunday!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "ttagxamm",
+    "plus": 0,
+    "snip": false,
+    "text": "I do not understand why have been lamed so often for pointing this out, and alas, have given out all of my chubbies for this page.  But you are correct; that is a movie I would add to my Netflix queue as fast as kung fu."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "fuckyoufriday",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by fuckyoufriday was marked lame too many times and excluded. (marked lame by alphagator, turnabout, STUART, Darthemed)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "closefriend",
+    "plus": 3,
+    "snip": false,
+    "text": "I wonder if it bothers Vlad that all the younger guys are packing 3.5\" when he's still waving around 5.25\"."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "bixschmix",
+    "plus": 3,
+    "snip": false,
+    "text": "It's not the size of the drive, it's the formatting."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "direhaggis",
+    "plus": 0,
+    "snip": false,
+    "text": "Size does matter."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "f1shst1ck",
+    "plus": 0,
+    "snip": false,
+    "text": "I would pay to watch crazy sunday"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "bc9b89",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by bc9b89 was marked lame too many times and excluded. (marked lame by envika, TonyHighwind, king_of_pwns, turnabout, Mastronaut, Mirzabah)"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "i_love_kate",
+    "plus": 0,
+    "snip": false,
+    "text": "ZOMG. <br/> \n <br/> \nNo."
+  },
+  {
+    "depth": 2,
+    "minus": 1,
+    "name": "envika",
+    "plus": 0,
+    "snip": false,
+    "text": "Who's Olmstead? Is he the same guy as Onstad?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "snowman",
+    "plus": 2,
+    "snip": false,
+    "text": "BWAHAHAHAHAHAHAHA <br/> \n <br/> \n\"Olmstead\""
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "lahnnabell",
+    "plus": 1,
+    "snip": false,
+    "text": "I bet it's all about Chuck Norris trying to have a quiet day off from kickin' ass, but lo and behold, trouble's abrewin'.  Even on a Sunday.  Apparently it's also monkey trouble, by the looks of the poster.  Ugh.  Perhaps it's one of those tough guy turned big softie films.  The Pacifier much?  Chuck Norris wouldn't, would he?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "cameasiam",
+    "plus": 2,
+    "snip": false,
+    "text": "Man, I lost discs 2 through 5. Life."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "mastronaut",
+    "plus": 1,
+    "snip": false,
+    "text": "I gamble, I lose!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "slimpickens",
+    "plus": 2,
+    "snip": false,
+    "text": "<br/> \nDon't worry brochacho, I'm sure Vlad can copy that floppy."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "mattylite",
+    "plus": 0,
+    "snip": false,
+    "text": "Rhyming: IT'S FRIKKIN AWESOME"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "windfish",
+    "plus": 0,
+    "snip": false,
+    "text": "I must be a robot, 'cause that's how I get it on."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "agentj",
+    "plus": 15,
+    "snip": false,
+    "text": "Crazy Sunday II: This Time It's Monday"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "heccibiggs",
+    "plus": 0,
+    "snip": false,
+    "text": "You're a genius."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "tekende",
+    "plus": 0,
+    "snip": false,
+    "text": "Your avatar is freaking me out. I don't know if it's you or not, but it looks like my girlfriend."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "heccibiggs",
+    "plus": 0,
+    "snip": false,
+    "text": "It is me, and I'm pretty sure I'm not your girlfriend. <br/> \n <br/> \nUm,  <a href=\"http://web.archive.org/web/20090426005825/http://photos-c.ak.facebook.com/photos-ak-sctm/v184/155/77/510875521/n510875521_642874_8950.jpg\">here's another picture of me</a> . Do I look anything like her there?"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "tekende",
+    "plus": 0,
+    "snip": false,
+    "text": "No, not really. Thank you, this is less freaky now."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "zapatos",
+    "plus": 0,
+    "snip": false,
+    "text": "This could maybe be a pickup line?"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "tekende",
+    "plus": 0,
+    "snip": false,
+    "text": "Yeah, I'm thinking no."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "heccibiggs",
+    "plus": 0,
+    "snip": false,
+    "text": "Actually my friend told me about this time she was in a club with mirrors all over the place, and some guy said to her \"Hey have you seen my girlfriend?\" and she was all \"Uhh no?\" and he dragged her to the nearest mirror and pointed at her reflection and went \"Oh look there she is!\". <br/> \n <br/> \nSo it's not that crazy of a theory."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "zapatos",
+    "plus": 0,
+    "snip": false,
+    "text": "It'd be crazy if one expected it to work."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "rational",
+    "plus": 4,
+    "snip": false,
+    "text": "SIX TIMES?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "yearsinhotclaws",
+    "plus": 0,
+    "snip": false,
+    "text": "Was this reference pre-all the chuck norris jokes?"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "libelandslander",
+    "plus": 0,
+    "snip": false,
+    "text": "Yeah dude, Chuck Norris Facts appeared around 2005. In 2002 the internet was had more like... uhh... <br/> \n <br/> \nDamn, there's a big gap in my memory. I don't remember what came in between the All Your Base/Hamsterdance era and the Lolcats/Chuck Norris Facts era. <br/> \n <br/> \nScreaming ghoul faces?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "hateandwar",
+    "plus": 0,
+    "snip": false,
+    "text": "Tourettes Guy."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "deusoma",
+    "plus": 1,
+    "snip": false,
+    "text": "God damn did I ever hate screaming ghoul faces. To this day I get close-happy if a flash does absolutely nothing for more than two seconds."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "dancemanleo",
+    "plus": 0,
+    "snip": false,
+    "text": "i always wondered myself as to the getting ons of robots"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "conorkampbell",
+    "plus": 0,
+    "snip": false,
+    "text": "Tomorrow at the cinema: <br/> \n <br/> \nChuck Norris in: <br/> \n <br/> \n\"Moderate Monday\""
+  }
+]

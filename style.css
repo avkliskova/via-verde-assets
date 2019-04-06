@@ -1,0 +1,49 @@
+body {
+    font-size: 16px;
+}
+
+
+div#header, div#content, div#menu {
+    float: left;
+    clear: left;
+    margin-left: 4rem;
+    padding-left: 1rem;
+    border-left: .125rem solid #9c0;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 800px) {
+    body {font-size: 14px;}
+    div#header, div#content, div#menu {margin-left: 2rem;}
+}
+
+
+div#menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+div#menu ul li {
+    display: inline-block;
+    margin-right: 2rem;
+}
+
+div#menu ul li:last-child {
+    margin-right: 0;
+}
+
+div#header, div#menu {
+   font-family: SibilaRegular;
+}
+
+#title {
+    float: left;
+    clear: left;
+    font-size: 3rem;
+}
+
+#subtitle {
+    float: left;
+    clear: left;
+    font-weight: 200;
+}

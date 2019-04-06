@@ -1,0 +1,21 @@
+This website is my attempt to catalogue the available online material adjacent to one of my favorite webcomics.
+
+It is a labour of love, and therefore not for profit.
+
+Any and all content made available on achewood.com and its associated blogs is the intellectual property of Chris Onstad. This site acts as an supplement, not a substitute, for said content. As such, it will /never/ reproduce a piece of that content in its entirety, unless it becomes defunct or inaccessible.
+
+The adjacent material, such as AssetBar comments are, to my knowledge, only accessible in their original form through the [Internet Archive](https://archive.org). This site attempts to reproduce them in a more palatable format.
+
+---
+
+This website adheres to [brutalist design principles](brutalistweb.design). It is styled in pure HTML/CSS, with [about 600 bytes worth of JavaScript](https://edenspiekermann.github.io/a11y-toggle/) included expressly for accessibility purposes.
+
+It uses the Verdana font, if installed on your computer, to reproduce the style of the original site.  Excepting this and any images used by commenters, it is also fully [open source](https://github.com/sverona/11-via-verde). Hack it. Steal it. I don't care.
+
+If you would like to read the blogs and comments side-by-side with the comics, I recommend Shift+clicking on the provided links to open them in new windows.
+
+# If you appreciate Achewood, please support Chris Onstad.
+
+# If you like what I've done here, consider making a donation.
+
+@sverona

@@ -1,0 +1,938 @@
+[
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "handsome",
+    "plus": 10,
+    "snip": false,
+    "text": "I want to see that pig, man."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "stabones",
+    "plus": 97,
+    "snip": false,
+    "text": "anyone seen my goggles?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "i_love_kate",
+    "plus": 15,
+    "snip": false,
+    "text": "I wouldn't worry much, they do nothing."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "i_love_kate",
+    "plus": 0,
+    "snip": false,
+    "text": "Silly me."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "brian",
+    "plus": 17,
+    "snip": false,
+    "text": "http://rampage.datacruz.com/~brian/pig_up.jpg"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "panthera3000",
+    "plus": 0,
+    "snip": false,
+    "text": "I'm starting a tradition of chubbying Mother/Earthbound avatars. You sir have earned one of said chubbies, rejoice"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by zefiel was marked lame too many times and excluded. (marked lame by kenthegod, RedGuy, starch, ersatz)"
+  },
+  {
+    "depth": 1,
+    "minus": 2,
+    "name": "zaratustra",
+    "plus": 18,
+    "snip": false,
+    "text": "(insert 'the goggles do nothing' joke here)"
+  },
+  {
+    "depth": 2,
+    "minus": 1,
+    "name": "nigelchaos",
+    "plus": 76,
+    "snip": false,
+    "text": "[IMGS OFF]"
+  },
+  {
+    "depth": 1,
+    "minus": 1,
+    "name": "johnfen",
+    "plus": 1,
+    "snip": false,
+    "text": "5 for the alt text alone"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "zefiel",
+    "plus": 9,
+    "snip": false,
+    "text": "You have to love the last panel, all styled like the cold war's 'Duck and Cover' safety movies. Beef, language is a beautiful thing, and you're its keeper. Keep on Rockin'"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "qwerty",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by qwerty was marked lame too many times and excluded. (marked lame by ShemmJacc, madnes, Overmedicated, SixtySwine, kylemcjuicy, odei, mortshire, mike24, DigDugz, cbtbone, lastlarf, Madoushi)"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "qwerty",
+    "plus": 0,
+    "snip": false,
+    "text": "Just had to beat me to it."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": false,
+    "text": "Can I mark you as spam then? X3 Rockin' Icon, dude."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "someone3",
+    "plus": 0,
+    "snip": false,
+    "text": "that is one of the default icons, which i soon after saved to my computer for later use after i got it as mine when i signed up. also, don't make as spam, it was a mistake not spam."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 0,
+    "snip": false,
+    "text": "Absolutely right.  It looks like the two comments were posted pretty much simultaneously.  There's no reason to give chubbies to one and lames to the other, let alone spam."
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": false,
+    "text": "I was jokin', no one's marked it as spam. There was a good difference of almost 10 minutes, tho. not really simultaneously. What I find more Interesting is that i think she made an account, and got the idea to post the alt text, or it was going to be her very fist alt text posted (as mine) since she doesn't seem to have a lot of prior posts."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 4,
+    "snip": false,
+    "text": "You're a good guy, and you were obviously joking, but somebody lamed that thing, just lamed it all to hell.  The other day the system restricted me because I got 8 lames for posting something stupid.  Qwerty doesn't deserve that, especially if it's one of her first posts.   <br/> \n <br/> \n\"No one should be a cock to a stranger, ever.\""
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": false,
+    "text": "The system seriously restricts people? That's a novel and harsh feature, but of course it can be hella abused. Dang. We still need to work out the kinks in the Achemmunity."
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 0,
+    "snip": false,
+    "text": "Yeah, the system told me to \"try being nice for a change.\"  I thought my problem was being found stupid and uncool in public.  The entire forum held the knife that cut off my access. <br/> \n <br/> \nI think it's the EigenVector thing they mentioned when they introduced the Ignore feature; it's in a comment from AssetBar_admin under the strip on May 10, 2007.  They are aware of the downsides, and they're working on more flexible and powerful solutions."
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 0,
+    "snip": false,
+    "text": "Wait, I clearly don't know what I'm talking about.  Wehavemagnums wrote that he ran out of chubbies for this page, lower down on this list.  I can't see why they'd limit chubbies for either the uncool or the cool.  Must a be a quota thing."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "zefiel",
+    "plus": 0,
+    "snip": false,
+    "text": "Yeah, the system is interesting/puzzling.. I think it's based either on days, or on some weird karmic balance, the more chubbies you give, the more lames, or something."
+  },
+  {
+    "depth": 10,
+    "minus": 0,
+    "name": "atticusonline",
+    "plus": 1,
+    "snip": false,
+    "text": "You folk are insightful"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "closefriend",
+    "plus": 1,
+    "snip": false,
+    "text": "Beef looks like he's in the transfer station. He must need Zell and Cory's take on this marriage issue."
+  },
+  {
+    "depth": 1,
+    "minus": 1,
+    "name": "lastlarf",
+    "plus": 19,
+    "snip": false,
+    "text": "Zell and Cory do not go to the transfer station. No one should go to the transfer station."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "eric",
+    "plus": 5,
+    "snip": false,
+    "text": "Didn't he see that film in school??"
+  },
+  {
+    "depth": 0,
+    "minus": 2,
+    "name": "supernintendochalmers",
+    "plus": 0,
+    "snip": false,
+    "text": "shouldn't the pig be wearing piggles brand piggles"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "differentdog",
+    "plus": 1,
+    "snip": false,
+    "text": "yes"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "satellitetv",
+    "plus": 1,
+    "snip": false,
+    "text": "Hi!"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "plummet",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by plummet was marked lame too many times and excluded. (marked lame by le_chien_manquee, Flaaron, luckypyjamas, grayfox)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "ktistecmachine",
+    "plus": 9,
+    "snip": false,
+    "text": "Poor Beef. To him, marriage is like a violent crime and any ring he gives Molly is an explosive or firearm. These are the necessary props that make sentences transform forever the lives of their speaker."
+  },
+  {
+    "depth": 1,
+    "minus": 1,
+    "name": "wehavemagnums",
+    "plus": 46,
+    "snip": false,
+    "text": "<em>Oh shiiiiiiiiiiit!</em>"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "danjoebak",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by danjoebak was marked lame too many times and excluded. (marked lame by madnes, Overmedicated, Catachresis, mortshire, SatelliteTV, littleherrdoktor, le_chien_manquee, Matt, rodneystubbs, lastlarf, wehavemagnums)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "nsrdude",
+    "plus": 2,
+    "snip": false,
+    "text": "This is an incredible observation. Well done Onstad!"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "skiddyfisk",
+    "plus": 3,
+    "snip": false,
+    "text": "oh man oh man he's gonna do it"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "wehavemagnums",
+    "plus": 11,
+    "snip": false,
+    "text": "I don't know how we got from the lawn war arc to here, but suddenly we're in the middle of something big and I'm getting tingly feelings."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "solobuttons",
+    "plus": 1,
+    "snip": false,
+    "text": "Man I can't tell if it'll happen or not. All I know is that this is a beautiful strip and I love it."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "johnstephens",
+    "plus": 6,
+    "snip": false,
+    "text": "Predication: Pat comes in sniping for someone who said \"fuck you\" to him, and hits Molly by mistake. Beef follows Molly to Heaven and asks her there."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "theloneliestmonkey",
+    "plus": 15,
+    "snip": false,
+    "text": "Ten years later, in heaven:  MOLLY!  ARE YOU CRAPPIN'?  YOU FEED THE DOG YET?"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "someone3",
+    "plus": 0,
+    "snip": false,
+    "text": "a cat owning a dog? heaven sure is a weird place. im going to spark up a J with God, peace."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 9,
+    "snip": false,
+    "text": "The longer and more bizarre strips in the lawn war arc were good, but very much left me cold. This is the perfect tonic, short and beautiful. <br/> \n <em>Why can't I stay mad at you, Achewood</em>"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "abe",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by abe was marked lame too many times and excluded. (marked lame by mortshire, mat4900, mikejk305)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "littleherrdoktor",
+    "plus": 8,
+    "snip": false,
+    "text": "i sort of hate this comment system thing but this strip was so beautiful and elegant and amazing that i had to say so."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "rogergs",
+    "plus": 15,
+    "snip": false,
+    "text": "Beef is wandering through a dark Expressionist landscape of the mind that includes a bridge made famous by Edvard Munch."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "primal_in_the_mane",
+    "plus": 3,
+    "snip": false,
+    "text": "Like here in ? <a href=\"http://web.archive.org/web/20101006174948/http://www.edvard-munch.com/Paintings/anxiety/despair_3.jpg\">Despair</a> ?"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "sarabria",
+    "plus": 4,
+    "snip": false,
+    "text": "we are forgetting how cute beef looks in his hoodie!"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "zheroen",
+    "plus": 2,
+    "snip": false,
+    "text": "I commend this strip's championing of the destructive power of WORDS.  Muad'dib would be proud."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "jackparsons",
+    "plus": 1,
+    "snip": false,
+    "text": "My name is a whining word."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "omnidope",
+    "plus": 0,
+    "snip": false,
+    "text": "The hoodie is a good choice for pensive wandering."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "neitherman",
+    "plus": 0,
+    "snip": false,
+    "text": "Beef is having Deep Thoughts."
+  },
+  {
+    "depth": 0,
+    "minus": 2,
+    "name": "songbirdspectre",
+    "plus": 3,
+    "snip": false,
+    "text": "this is my favorite achewood strip ever. <br/> \n <br/> \nseriously. it owns."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "stevepants",
+    "plus": 2,
+    "snip": false,
+    "text": "automatic 5 for beef's awesome depressed hoodie"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "djwhiterabbit",
+    "plus": 1,
+    "snip": false,
+    "text": "i like the way the hoodie pokes up in the back.   <br/> \n <br/> \n'cuz of his pointy ears."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "mastronaut",
+    "plus": 0,
+    "snip": false,
+    "text": "The missing 5th panel is Roast Beef jumping in the river and floating along just to think."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "mastronaut",
+    "plus": 3,
+    "snip": false,
+    "text": "Or, well, Damn. I could look at the next comic."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "epicurus",
+    "plus": 1,
+    "snip": false,
+    "text": "Love the font used to represent the 1940s educational film, and Beef's hairstyle therewith."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 0,
+    "snip": false,
+    "text": "Yes. The font is such joy. I'm sure I've seen it before in Achewood too, anyone awesome enough to confirm?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 6,
+    "snip": false,
+    "text": "Young Roast Beef in flashback, listening to tape of  <a href=\"http://web.archive.org/web/20101006174948/http://achewood.com/index.php?date=03012006\">commentary</a>  on 1973 Great Outdoor Fight."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 0,
+    "snip": false,
+    "text": "Excellent work my good man"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "kombatmedik",
+    "plus": 0,
+    "snip": false,
+    "text": "it's the though processes of the characters that make Achewood awesome. Damn, I hope this arch keeps going. I just want to see how Beef proposes!"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "nessotron",
+    "plus": 1,
+    "snip": false,
+    "text": "I want a seat on the National Sentence Council so damn bad...."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "sherief",
+    "plus": 0,
+    "snip": false,
+    "text": "Beef is lucky he is not in England, as his existential rollercoaster could be quickly upset by an Anti-Social Behavior Ordinance"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "differentdog",
+    "plus": 5,
+    "snip": false,
+    "text": "oh my god i thought i only had to worry about the passport and lying about being from texas"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "gnomungus",
+    "plus": 1,
+    "snip": false,
+    "text": "you NEED to show us the pig"
+  },
+  {
+    "depth": 0,
+    "minus": 2,
+    "name": "bacter",
+    "plus": 29,
+    "snip": false,
+    "text": "Come on guys, like we need a damn signed invitation card to start mocking up. <br/> \n <br/> \n[IMGS OFF]"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "tombsgrave",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by tombsgrave was marked lame too many times and excluded. (marked lame by phthoggos, mortshire, nonorganon)"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 0,
+    "snip": false,
+    "text": "Hell I know you're deliberately misinterpreting but it made me laugh"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "tombsgrave",
+    "plus": 2,
+    "snip": false,
+    "text": "\"The erots\" sound fun.  Pronounced eRots.  Perhaps that's what pornographic movies are called in some cooler place than here."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "ladydj",
+    "plus": 0,
+    "snip": false,
+    "text": "This could be bad."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "untilyouaresonude",
+    "plus": 8,
+    "snip": false,
+    "text": "After his brief walk, he's gonna go and topple backwards over the bridge into the river and drift a while."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 0,
+    "snip": false,
+    "text": "The Winner!  Except that he jumped facing forward.  Will jump?  Future when untilyouaresonude wrote, past as I type this.  You figure it out."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "wehavemagnums",
+    "plus": 0,
+    "snip": false,
+    "text": "I'd give you a retroactive chubby if I wasn't all out for this page."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "odei",
+    "plus": 26,
+    "snip": false,
+    "text": "[IMGS OFF]"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "jackparsons",
+    "plus": 0,
+    "snip": false,
+    "text": "If anyone starts LolPigz they are anticipitory lamed."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "odei",
+    "plus": 0,
+    "snip": false,
+    "text": "Did you mean:  <em><span style=\"border-bottom: 1px dotted\">anticipatory</span></em> ?"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "i_love_kate",
+    "plus": 3,
+    "snip": false,
+    "text": "Given its use as an adverb, I think he must mean anticipatorily. Which isn't a word."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "odvo",
+    "plus": 1,
+    "snip": false,
+    "text": "Classic! Signed-strip worthy."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "buster",
+    "plus": 0,
+    "snip": false,
+    "text": "looks like Onstad got some good shit."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "senseihollywood",
+    "plus": 1,
+    "snip": false,
+    "text": "\"Every man has a destiny that defines who he is, Beef.\"  This is yours. <br/> \n <br/> \n(GOF 2/3/06)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "imitationcrab",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by imitationcrab was marked lame too many times and excluded. (marked lame by agreenberg, Catachresis, mortshire)"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "havenless",
+    "plus": 0,
+    "snip": false,
+    "text": "Dude, awesome."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "evolume",
+    "plus": 7,
+    "snip": false,
+    "text": "On a related note, another potentially crippling sentence is \"Your daughter and I are getting married.\"  When I said this to the guy, he actually cried in front of me.  Then nobody said anything at all for a full 3 or 4 minutes."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "wehavemagnums",
+    "plus": 0,
+    "snip": false,
+    "text": "Ouch."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "someone3",
+    "plus": 0,
+    "snip": false,
+    "text": "was he happy or sad?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "aperson",
+    "plus": 19,
+    "snip": false,
+    "text": "He was tied to a chair."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "ttagxamm",
+    "plus": 0,
+    "snip": false,
+    "text": "Ha!  You just made me laugh out loud, with this, aperson, but I have no more internet gold stars to give out, so I'll just say thanks!"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "majormajor",
+    "plus": 0,
+    "snip": false,
+    "text": "epic comic"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 66,
+    "snip": false,
+    "text": "Lie Bot, what is the saddest thing? <br/> \n <br/> \nThe saddest thing is a cat who came from Circumstances.  He was depressed his whole life, and then he was shot and killed by his friends several times. <br/> \n <br/> \nN-- <br/> \n <br/> \nWait, there's more.  The cat went to heaven where he met his true love.   <br/> \n <br/> \n... But that's good! <br/> \n <br/> \nNo, then heaven burned down, and she burnt up, and the depressed cat commissioned No-No to do the murder act on him. <br/> \n <br/> \nNo-- <br/> \n <br/> \nWait, wait, I'm not done yet.  They came back to Earth, and now she puts up with his snoring and the way he ruins the evening every time they go out to a nice restaurant.  She remembers the things he says, and buys him Christmas presents three years in advance.  His friends think she's the best thing that ever happened to him and he should marry her. <br/> \n <br/> \n... How is that sad?  They're happy! <br/> \n <br/> \nHe is afraid to ask because she might say yes. <br/> \n <br/> \nNOOOOO!!!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 0,
+    "snip": false,
+    "text": "You, sir, have done well"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "tombsgrave",
+    "plus": 0,
+    "snip": false,
+    "text": "That is a marvelous summary of the Roast Beef Experience.  Bravo!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "mastronaut",
+    "plus": 0,
+    "snip": false,
+    "text": "Oh man, I used up all of my chubbies. You get five."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "centipede_damascus",
+    "plus": 1,
+    "snip": false,
+    "text": "When Beef gets home, Molly is taking a meatloaf out of the oven, all wearing a nice apron and humming a tune. What man could stand against that?"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "le_chien_manquee",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by le_chien_manquee was marked lame too many times and excluded. (marked lame by silver_lake, gouldgonewild, salvagebar, mortshire, bug, TombsGrave)"
+  },
+  {
+    "depth": 2,
+    "minus": 1,
+    "name": "lateadopter",
+    "plus": 1,
+    "snip": false,
+    "text": "Clearly meatloaf is a central problem in most people's lives.  However, Roast Beef is not fond of any kind of food, and he is capable of aggression only when he's  <a href=\"http://web.archive.org/web/20101006174948/http://achewood.com/index.php?date=11122004\">defending a friend</a> .   <br/> \n <br/> \nYou are confusing him with Nice Pete, or maybe  <a href=\"http://web.archive.org/web/20101006174948/http://achewood.com/index.php?date=10302003\">Nice Pete's dad</a> .  Or possibly (and much worse) Philippe's  <a href=\"http://web.archive.org/web/20101006174948/http://achewood.com/index.php?date=03312003\">evil stage mom</a> ."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "johnnylandmine",
+    "plus": 0,
+    "snip": false,
+    "text": "Man, for the past few days I've been trying to recall the strip where the line \"you dis my dog you fluff my hog\" was uttered. And here you have handed it right to me."
+  },
+  {
+    "depth": 3,
+    "minus": 1,
+    "name": "centipede_damascus",
+    "plus": 1,
+    "snip": false,
+    "text": "Am I like the only dude who enjoys a nicely cooked meatloaf or what?"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "lateadopter",
+    "plus": 2,
+    "snip": false,
+    "text": "I'm glad to hear you are able to admit this in public without shame or fear of stigma.  It says so much about the progress that society has made.  Does your family support your choice?"
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "jackparsons",
+    "plus": 0,
+    "snip": false,
+    "text": "I believe you are confusing meatloaf with fruitcake. They do seem to have similar anatomy and origins. <br/> \n <br/> \nI'm a veg, and I'd have to say my fond memories of mom's really good ML will have to do. A faux meat ML would be vile.  The ToFuckYou is decent with spices."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "odei",
+    "plus": 1,
+    "snip": false,
+    "text": "DENISE! YOU COOKIN' MEATLOAF? <br/> \n <br/> \nYOU FEED THE DOG YET?"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "fiftyshekels",
+    "plus": 0,
+    "snip": false,
+    "text": "good gracious, that is a  <em>disgusting</em>  euphemism."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "featurelessvoid",
+    "plus": 1,
+    "snip": false,
+    "text": "A nice bit of continuity: Roast Beef seems to have a  <a href=\"http://web.archive.org/web/20101006174948/http://m.assetbar.com/achewood/uua6jnTBw\">habit</a>  of wearing the hoodie when troubled. <br/>"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "johnnylandmine",
+    "plus": 0,
+    "snip": false,
+    "text": "I just dig the hell out of the implication that at least some significant part of Beef's brain is structured like a grainy educational film. What country do I need to sneak into to get the illegal operation that will do this for me?"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 1,
+    "snip": false,
+    "text": "Drugs."
+  },
+  {
+    "depth": 0,
+    "minus": 2,
+    "name": "qingofchina",
+    "plus": 0,
+    "snip": false,
+    "text": "Why isn't it named irrational sentence council?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "lucidaconsole",
+    "plus": 0,
+    "snip": false,
+    "text": "i would tell roast beef that this comic makes me love him even more, but dude would just put on his river-floatin' hoodie again."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "solobuttons",
+    "plus": 0,
+    "snip": false,
+    "text": "I think this is the most touching moment yet. Tears spring into my eyes whenever I read it. <br/> \n <br/> \nWhat the christ and this is about an  <em>anthropomorphic cat marriage</em>  sfsfadasdsad."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "johnnyripped",
+    "plus": 0,
+    "snip": false,
+    "text": "This is so Foucault."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "achilleselbow",
+    "plus": 0,
+    "snip": false,
+    "text": "I think there's a  <a href=\"http://web.archive.org/web/20101006174948/http://en.wikipedia.org/wiki/Performative_utterance\">term</a>  for those kinds of sentences."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "hatcatrat",
+    "plus": 0,
+    "snip": false,
+    "text": "\"We're all out of ham.\""
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "bpmead",
+    "plus": 3,
+    "snip": false,
+    "text": "When achewood reads like A Softer World, good things happen."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "zapatos",
+    "plus": 0,
+    "snip": false,
+    "text": "Chubby. <br/> \n <br/> \nI <3 Mr. Comeau"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "zapatos",
+    "plus": 0,
+    "snip": false,
+    "text": "I've said it, she said yes. <br/> \n <br/> \nThree months later she said no."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "greenkoolayd",
+    "plus": 0,
+    "snip": false,
+    "text": "wait, what?!  are you ok?"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "zapatos",
+    "plus": 0,
+    "snip": false,
+    "text": "It was about three years ago. <br/> \n <br/> \nAlso I'm fine, thanks."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "greenkoolayd",
+    "plus": 0,
+    "snip": false,
+    "text": "ok, good.  i dont want you to be sad."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "saru",
+    "plus": 0,
+    "snip": false,
+    "text": "Am I, or am I not alone in thinking that Beef looks absolutely adorable in this strip?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "dusty",
+    "plus": 0,
+    "snip": false,
+    "text": "The pig in goggles stands in a box, the wall in front of him lowers, it's a friend that he has always had a crush on but never had the chance to approach in that way, she is very beautiful by pig standards. A red light blinks 3 times and a buzzer sounds. The girl pig says \"Randy, you're like a brother to me, I know we'll be friends forever!\" The pig in goggles curls into a ball and vomits. A man in a lab coat takes a note on his clipboard."
+  }
+]

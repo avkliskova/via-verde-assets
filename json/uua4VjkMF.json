@@ -1,0 +1,890 @@
+[
+  {
+    "depth": 0,
+    "minus": 2,
+    "name": "mangaknightz",
+    "plus": 52,
+    "snip": false,
+    "text": "gosh teodor gets sassy"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "tellumo",
+    "plus": 1,
+    "snip": false,
+    "text": "But Ray deserves it. He probably thought about employing a little Panama boy to vacuum the dropped gerunds out the bottom of [i]his[i] Escalade a minute later."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "tellumo",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by tellumo was marked lame too many times and excluded. (marked lame by NotGodot, sevenarts, riotnrrd, oto)"
+  },
+  {
+    "depth": 3,
+    "minus": 1,
+    "name": "twohundredninety",
+    "plus": 8,
+    "snip": false,
+    "text": "I COMPLETELY AGREE <br/> \n <br/> \nBut I  <em>can</em>  think of a rationale, sort of: If they use BBcode, they can categorically deactivate everything in angle brackets, making it really easy to prevent screwy script injection exploits and blah blah blah. <br/> \n <br/> \nBut this isn't a very good reason, I think. It would be only marginally more difficult to allow the obvious tags like <i> and <b> and disallow DHTML and other things likely to fuck with their shit. And, anyway, it seems like they could just leave their HTML-donker intact and parse <i> and <b> tags themselves in exactly the same way they're handling BBcode now. <br/> \n <br/> \nIt would be pretty great if they did this, I think, and allowed, in addition to the current BBcode tags, equivalent HTML tags. Any assetbar dudes watching?"
+  },
+  {
+    "depth": 4,
+    "minus": 1,
+    "name": "twohundredninety",
+    "plus": 16,
+    "snip": false,
+    "text": "I use \"dudes\" in the gender-neutral sense, of course. No tacit support here for the stereotype of computery-type people being male."
+  },
+  {
+    "depth": 4,
+    "minus": 1,
+    "name": "tellumo",
+    "plus": 1,
+    "snip": false,
+    "text": "Exactly. Allow A, B, I, U, STRIKE, and IMG and you've got basically everything you need. Add filtering for too-wide elements and you're done. <br/> \n <br/> \nThen again, I've been waiting for LiveJournal to add an HTML-aware spellchecker for about four years now, so maybe we'll have to wait a bit . . . :-("
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "professorhazard",
+    "plus": 36,
+    "snip": false,
+    "text": "The fact of the matter is, however, that whether it was BBCode tags or HTML tags, you left out the slash in the closer. That is neither machine language's fault. Only yours."
+  },
+  {
+    "depth": 3,
+    "minus": 1,
+    "name": "w_t_f",
+    "plus": 1,
+    "snip": false,
+    "text": "How about you read the  <a href=\"http://web.archive.org/web/20110510021357/http://m.assetbar.com/achewood/bbcode\">help</a>  section?  When in doubt, read the instructions."
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "pogo",
+    "plus": 0,
+    "snip": true,
+    "text": "A comment left by pogo was marked lame too many times and excluded. (marked lame by ted0phile, riotdejaneiro, sevenarts)"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "slickshoes3234",
+    "plus": 5,
+    "snip": false,
+    "text": "we could use HTML and be respective disgraces to our families"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 0,
+    "snip": false,
+    "text": "<em>OK!</em>  Enough with the nerdistry, already. I need an English major. My question is this - are the gerunds referred to in this strip of the linguistic variety? If so, please help me to understand the joke. If not, what are gerunds? Please help. I love this strip so much as it is, but feel as though I'm missing something."
+  },
+  {
+    "depth": 5,
+    "minus": 2,
+    "name": "eatmorekix",
+    "plus": 14,
+    "snip": false,
+    "text": "dropping the gerund: \"going\" becomes \"goin'\", \"fucking\" becomes \"fuckin'\", etc. <br/> \n <br/> \ni could be wrong. i am no queen of grammar but this is just my assumption."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 0,
+    "snip": false,
+    "text": "I trust that you are correct and I thank you."
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "bjorntd",
+    "plus": 15,
+    "snip": false,
+    "text": "Dropped gerunds are typical in Ebonics, which Teodor is mocking here. A dropped gerund is a gerund (words like running jumping etc) minus the \"ing\" suffix, so, for example, \"I've got to tip the Panamanian boy who is vacuuming the gerunds from the Escalade's carpet\" becomes \"I got to tip the little Panama boy what vacuums my dropped gerunds out of the bottom of my Escalade.\""
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 0,
+    "snip": false,
+    "text": "Thank you. Thank you all."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "i_love_kate",
+    "plus": 0,
+    "snip": false,
+    "text": "Oh,  <em>yes.</em>  I thought he was just using \"gerund\" as some kind of weird slang for cigarette ends. I'm both relieved and amused!"
+  },
+  {
+    "depth": 10,
+    "minus": 0,
+    "name": "tasteful",
+    "plus": 2,
+    "snip": false,
+    "text": "and pretty dumb to think that"
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "heccibiggs",
+    "plus": 0,
+    "snip": false,
+    "text": "Oh my God you just made this strip even better."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "ananke",
+    "plus": 1,
+    "snip": false,
+    "text": "Haha, thanks for pointing that out.  I totally missed that because the text has become so small in the last few strips."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "ananke",
+    "plus": 0,
+    "snip": false,
+    "text": "um, that was funny haha, not sarcastic haha, just to clarify there."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "belgand",
+    "plus": 1,
+    "snip": false,
+    "text": "True, but if you screwed up in the same fashion in HTML it wouldn't be any different. Face it man, you straight-up dropped a / in there. Own up to it and be a  <em>man</em> ."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "fermatprime",
+    "plus": 2,
+    "snip": false,
+    "text": "He forgot to tip the Panama boy what vacuums his dropped slashes."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "jrpigman",
+    "plus": 1,
+    "snip": false,
+    "text": "Teodor has a valid point though. Never go  <em>no</em> where 'less they be mad sluts at that place. <br/> \n <br/> \nThis is advice to live by."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "belgand",
+    "plus": 0,
+    "snip": false,
+    "text": "Mad sluts, however, are a problem. They get angrier than most women and they are far more vicious."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "st-elmos_fire",
+    "plus": 2,
+    "snip": false,
+    "text": "AAAaaarrrgh!!! The Maenads they are tearing my flesh!!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "tripperday",
+    "plus": 2,
+    "snip": false,
+    "text": "I like it when Teodor throws sass because he gets his sass on so rarely."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "puguglypress",
+    "plus": 2,
+    "snip": false,
+    "text": "Could someone open a window? It's a little SASSY in here!"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "untilyouaresonude",
+    "plus": 1,
+    "snip": false,
+    "text": "Okay, who would be Ray's voice actor in an Achewood cartoon/film? Personally, I think he has a real Tracy Morgan charm to him. Ridiculous, loud, but it can still be convincing. Tracy Morgan or Patrice Johnson, that's my vote."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "waitwhat",
+    "plus": 0,
+    "snip": false,
+    "text": "More like Patrick Duffy."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "catachresis",
+    "plus": 8,
+    "snip": false,
+    "text": "I know Mr. Bear should be Stephen Fry, but Ray is pretty damn hard to place. Bruce Willis could probably nail it if he was in the right mood."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "tellumo",
+    "plus": 3,
+    "snip": false,
+    "text": "I'm not completely sure about anyone else, but Stephen Fry as Mr. Bear?  <em>Totally.</em>"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "riazm",
+    "plus": 2,
+    "snip": false,
+    "text": "Are we sure Mr. Bear is British though? It's either Steven Fry of Kelsey Grammer if he's American. I tend to imagine that Mr Bear is American."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "tellumo",
+    "plus": 4,
+    "snip": false,
+    "text": "He was born in the US but his parents were British. Hmm, now that I think of it, Kelsey Grammer could be pretty good too. <br/> \n <br/> \nI'm thinking maybe Kevin Spacey for Roast Beef, by the way."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "riazm",
+    "plus": 2,
+    "snip": false,
+    "text": "For Todd, get the guy who did The Chipmunks drunk."
+  },
+  {
+    "depth": 6,
+    "minus": 1,
+    "name": "catachresis",
+    "plus": 6,
+    "snip": false,
+    "text": "I always think of Dr. Andretti with Kelsey Grammer's voice, though, so he's taken in my mind. <br/> \n <br/> \nRoast Beef - Steven Wright?"
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "imitationcrab",
+    "plus": 0,
+    "snip": false,
+    "text": "For Ray I'm thinking something like \"Bubs\" from Homestar Runner but not as wild/goofy.   <br/> \nHow about Bobcat Goldthwait as Lyle?"
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "zeal",
+    "plus": 4,
+    "snip": false,
+    "text": "Bobcat as Lyle?  Are you crazy?  Lyle is totally Mickey Roarke."
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "riazm",
+    "plus": 12,
+    "snip": false,
+    "text": "Ok, wait, stick with me people, <br/> \n <br/> \nChristopher Walken as Lie Bot? <br/> \n <br/> \nI'm gonna get lamed so hard, but come on guys, Achewood the animated series needs Walken somewhere. Maybe Beef? Beef's weird way of talking might be served well by Walken. Maybe Emeril?"
+  },
+  {
+    "depth": 8,
+    "minus": 1,
+    "name": "overmedicated",
+    "plus": 0,
+    "snip": false,
+    "text": "I ALWAYS placed Walken as Roast Beef. Seriously, the weird speech patterns could be done to a tee."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "jar",
+    "plus": 0,
+    "snip": false,
+    "text": "I agree.  I never really placed the two together until now, but it make perfect sense."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "history",
+    "plus": 0,
+    "snip": false,
+    "text": "Disagree.  Beef's speech isn't in weird patterns, it is just understated and low.  Who in Hollywood does understated and low?  William H Macey or perhaps Steve Buschemi come to mind, but neither is perfect."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "gmm",
+    "plus": 0,
+    "snip": false,
+    "text": "Excellent call on Roast Beef. I can definitely hear Fry as Cornelius, but if he can't make the shoot then Kelsey Grammer would be a good back up."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "joeyramoney",
+    "plus": 0,
+    "snip": false,
+    "text": "he was born in cambridge."
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "nessotron",
+    "plus": 0,
+    "snip": false,
+    "text": "Just to elaborate on this, it's implied Cornelius was born in Cambridge, as that's where he first lived. Whether that's in Cambridge, MA or the famous English university town, I'd assume the latter. <br/> \n <br/> \n <a href=\"http://web.archive.org/web/20110510021357/http://www.achewood.com/index.php?date=09092003\"> Roxx Street in cambridge! </a>"
+  },
+  {
+    "depth": 6,
+    "minus": 0,
+    "name": "choosebro",
+    "plus": 0,
+    "snip": false,
+    "text": "I also believe that Stephen Fry is a Cambridge man, English Literature. It is the perfect match!"
+  },
+  {
+    "depth": 7,
+    "minus": 0,
+    "name": "spinynorman",
+    "plus": 11,
+    "snip": false,
+    "text": "I don't have much to say, I'm just showing up."
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "choosebro",
+    "plus": 1,
+    "snip": false,
+    "text": "Fry! Everyone should love Stephen Fry."
+  },
+  {
+    "depth": 9,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 9,
+    "snip": false,
+    "text": "As uncomfortable as I have always been with the thought of an animated Achewood ( <a href=\"http://web.archive.org/web/20110510021357/http://youtube.com/watch?v=nH432AFoDU8\">those types of things never turn out right</a> ), this is a fun game and, in spite of myself, I've definitely spent some time thinking about it. One or two of these ideas were mentioned by others at various points - if I could remember who said what I'd credit them. Here are the possibilities that I (and they) have considered: <br/> \n <br/> \n <strong>Beef</strong>  - Crispin Glover <br/> \n <br/> \n <strong>Cornelius</strong>  - Michael Gambon (Please everybody, stop this Kelsey Grammer nonsense. The man's got no class.) <br/> \n <br/> \n <strong>Teodor</strong>  - Adrien Brody (I understand that Teodor's Belarusian and Brody isn't, but I know a few people of Russian decent who've lived in the states their entire life and who, unlike their parents, speak perfect American English, so this doesn't feel far-fetched to me). <br/> \n <br/> \n <strong>Molly</strong>  -  <a href=\"http://web.archive.org/web/20110510021357/http://www.bbc.co.uk/comedy/theoffice/characters/profile_dawn.shtml\">Lucy Davis</a> <br/> \n <br/> \n <strong>Ray</strong>  -  <a href=\"http://web.archive.org/web/20110510021357/http://en.wikipedia.org/wiki/Andr%C3%A9_3000\">Andre Benjamin</a> <br/> \n <br/> \n <strong>Lyle</strong>  - Benicio Del Toro (I realize that Lyle isn't Hispanic, but I think Del Toro could bring a lot of life to the part. Think Fear and Loathing.) <br/> \n <br/> \n <strong>Philippe</strong>  - An actual child. By \"actual,\" I guess I mean \"not necessarily an actor.\" Think Charlie Brown Christmas. Like that.  <br/> \n <br/> \n <strong>Pat</strong>  - David Hyde Pierce <br/> \n <br/> \n <strong>Lie Bot</strong>  - Christopher Walken ( <em>perfect!</em>  thank you, riazm) <br/> \n <br/> \nAgain, let me stress that I do not wish for this to happen. But if it had to, this would be pretty ideal.   <br/> \n <br/>"
+  },
+  {
+    "depth": 10,
+    "minus": 0,
+    "name": "spinynorman",
+    "plus": 0,
+    "snip": false,
+    "text": "David Hyde Pearce, while gay, is not aggressive. He may radiate finicky pickiness, but not the kind you want to drive a car into, then get out of the driver's side and walk around and pummel mercilessly in the face."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 1,
+    "snip": false,
+    "text": "Yes, yes. But he's an actor. He could make it happen."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "history",
+    "plus": 0,
+    "snip": false,
+    "text": "Agreed.  Pat has anger problems, and that isn't David Hyde Pearce...might be Jon Malkovich though."
+  },
+  {
+    "depth": 10,
+    "minus": 0,
+    "name": "dtuba",
+    "plus": 0,
+    "snip": false,
+    "text": "Adrian Brody is an inspired choice. For Ray, might I suggest Big Boi instead of Andre Benjamin? Or maybe (beating dead horse here) Craig Robinson from  <em>The</em> (American) <em>Office</em> ."
+  },
+  {
+    "depth": 11,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 0,
+    "snip": false,
+    "text": "You know, some people around here used to say that Tracy Morgan would be a better choice for Ray and I always used to disagree. But since then I have embarked on many  <em>30 Rock</em>  binges and I now agree wholeheartedly. Beyond that, I don't think I'd make any changes to the above list."
+  },
+  {
+    "depth": 12,
+    "minus": 0,
+    "name": "dtuba",
+    "plus": 0,
+    "snip": false,
+    "text": "I would be entirely satisfied with this.  <br/> \nTracy Morgan is one funny motherfucker."
+  },
+  {
+    "depth": 12,
+    "minus": 0,
+    "name": "dtuba",
+    "plus": 0,
+    "snip": false,
+    "text": "Not sure about Crispin Glover. The man is too  <em>weird</em> . Many people have suggested Joseph Gordon-Levitt for the voice of Beef. {/endorse] <br/> \nAnyway, this is a fun game. I could do this all day."
+  },
+  {
+    "depth": 8,
+    "minus": 0,
+    "name": "themeth",
+    "plus": 0,
+    "snip": false,
+    "text": "spineynorman gets 11 chubbies just for showing up."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "history",
+    "plus": 0,
+    "snip": false,
+    "text": "If he were still alive, I think Carey Grant would be the perfect Mr. Bear voice.  Educated, classy, worldly, with just a twinkle of sass."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "djwhiterabbit",
+    "plus": 23,
+    "snip": false,
+    "text": "i hope i never hear ray's voice in real life.  whoever does it is guaranteed to not sound quite right.  the same goes for beef, phillipe, and everyone else in achewood. <br/> \n <br/> \ni like them best left in my own head. <br/> \n <br/> \nthis was my opinion for  <em>calvin and hobbes</em>  and  <em>bloom county</em>  as well. <br/> \n <br/> \n(lorenzo music was great as garfield though.  up yours, garfield.)"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "spinynorman",
+    "plus": 1,
+    "snip": false,
+    "text": "If anyone remembers the animated show Tasmania about Taz from Looney Tunes, you may also remember his little brother, whose role it was to be excessively adorable. <br/> \n <br/> \nTo me, his voice is the voice of Philippe, but modified with technology to sound even dumber."
+  },
+  {
+    "depth": 1,
+    "minus": 1,
+    "name": "connellingus",
+    "plus": 0,
+    "snip": false,
+    "text": "Tommy Chong"
+  },
+  {
+    "depth": 1,
+    "minus": 1,
+    "name": "pepperhittherim",
+    "plus": 2,
+    "snip": false,
+    "text": "Imagining a human Ray always conjures up images of Bernie Mac in my mind"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "stuart",
+    "plus": 3,
+    "snip": false,
+    "text": "FUCK"
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "sneakstyles",
+    "plus": 0,
+    "snip": false,
+    "text": "amazing avatar/text synergy"
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "morypcaina",
+    "plus": 2,
+    "snip": false,
+    "text": "DOUBLE FUCK"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "hassanoleary",
+    "plus": 2,
+    "snip": false,
+    "text": "Personally, and I'm probably in a minority of one here, but Ray always reminded me a bit of Gene Hackman as Royal Tenenbaum. Hackman is of course too old for the role, but the ideal situation, as always, would involve a time machine."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "phthoggos",
+    "plus": 1,
+    "snip": false,
+    "text": "as always."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "robot_roll_call",
+    "plus": 0,
+    "snip": false,
+    "text": "I had this EXACT thought too. It's probably due to the glasses Gene Hackman wears in the movie."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "professorhazard",
+    "plus": 2,
+    "snip": false,
+    "text": "I always read Ray in the voice of Jeff Bridges, as he sounded in his role as \"The Dude\" in  <em>The Big Lebowski</em> ."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "zeal",
+    "plus": 0,
+    "snip": false,
+    "text": "Ray is way too concieted to sound like the Dude.  I  <em>might</em>  be able to hear Jeff Bridges as Ramses Luther, though."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 0,
+    "snip": false,
+    "text": "Ramses Luther = Sam Elliott"
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "greenkoolayd",
+    "plus": 1,
+    "snip": false,
+    "text": "fuck yes!  or what about samuel l. jackson?"
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "dtuba",
+    "plus": 0,
+    "snip": false,
+    "text": "No Sam Jackson. The man is  <em>overused</em> . <br/> \nNot sure why I chubbied you...so.....uh.............. <br/> \n <br/> \nhave a chubby"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "zem",
+    "plus": 2,
+    "snip": false,
+    "text": "Lyle was about ready to abandon the conversation until he found some common ground"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "heatbag",
+    "plus": 2,
+    "snip": false,
+    "text": "I have never been any place where there be mad sluts. This is a source of great pain in my life."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "shmuckeles",
+    "plus": 0,
+    "snip": false,
+    "text": "Philipines yo"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "philosophe",
+    "plus": 1,
+    "snip": false,
+    "text": "You didn't go to college, I guess. (no offense)"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "snatch22",
+    "plus": 6,
+    "snip": false,
+    "text": "I lost my Achewood virginity to this strip, I think.  I just wanted to write this down for posterity."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "biddlebubbly",
+    "plus": 0,
+    "snip": false,
+    "text": "\"up ins\" is a purely west coast thing. Being on the east coast, I wish it wasn't."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "slalvation",
+    "plus": 0,
+    "snip": false,
+    "text": "It is? I say that whenever I want to say it!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "phthoggos",
+    "plus": 1,
+    "snip": false,
+    "text": "You can do what you want in life."
+  },
+  {
+    "depth": 2,
+    "minus": 1,
+    "name": "zeal",
+    "plus": 4,
+    "snip": false,
+    "text": "Being in trouble is a fake idea."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "never_die",
+    "plus": 1,
+    "snip": false,
+    "text": "\"they any mad sluts.\"  I have promised myself to ask this question before i die... <br/> \nthose would be some creepy last words."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "echidnaboy",
+    "plus": 8,
+    "snip": false,
+    "text": "\"Doctor, I think he's trying to speak. Please, take off the oxygen mask so I can hear him.\" <br/> \n <br/> \n\"Th... they any... mad... s... sluts in... heaven?\""
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "fineoakstructure",
+    "plus": 0,
+    "snip": false,
+    "text": "No, I hear the sluts in heaven are pretty conservative."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "riazm",
+    "plus": 7,
+    "snip": false,
+    "text": "Tuff Gong is a record label that was formed by the reggae group The Wailers in 1970 and named after Bob Marley's nickname. The first single on the label was \"Run For Cover\" by The Wailers. The Tuff Gong headquarters were located at 56 Hope Road, in Kingston, Jamaica, Bob Marley's home. The location is now home to the Bob Marley Museum. <br/> \n <br/> \nThank you Wikipedia, for knowing everything that anyone could possibly ever need to know."
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "deancain29",
+    "plus": 1,
+    "snip": false,
+    "text": "chocolate love, all. Teodor is mad sick with the sass"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "estutius",
+    "plus": 10,
+    "snip": false,
+    "text": "I'm calling bullshit on Ray's reason for getting a letter-folding machine. I'm pretty sure he just stuck a page of a Sky Mall magazine to a dartboard, and bought whatever he hit."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "zeal",
+    "plus": 2,
+    "snip": false,
+    "text": "If Ray stuck skymall to a dart board all he'd hit would be the wood panelling and puke stains around it."
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "spinynorman",
+    "plus": 3,
+    "snip": false,
+    "text": "I find the letter-writing process very stressful and often confusing. If I'm mailing something extremely important then sometimes I put the return address on the wrong side of the stamp on the wrong side. One time I mailed a completely empty letter because I was so concerned with the envelope turning out looking nice I forgot that they usually are supposed to hold things, namely letters."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "tekende",
+    "plus": 0,
+    "snip": false,
+    "text": "The recipient must have been hell of confused."
+  },
+  {
+    "depth": 3,
+    "minus": 0,
+    "name": "spinynorman",
+    "plus": 4,
+    "snip": false,
+    "text": "My grandma was so mad her shouts could have been heard all around the county.  <br/> \n <br/> \nBut, well, that's part for the course, for her. <br/> \n <br/> \n...she is such an angry woman."
+  },
+  {
+    "depth": 4,
+    "minus": 0,
+    "name": "heccibiggs",
+    "plus": 3,
+    "snip": false,
+    "text": "That reminds me of the time I tried to make hot chocolate in the microwave, but in my haste forgot to put in the milk or powder. <br/> \n <br/> \nBasically, I wasted three minutes, and God knows how much energy, heating up a mug."
+  },
+  {
+    "depth": 5,
+    "minus": 0,
+    "name": "tekende",
+    "plus": 0,
+    "snip": false,
+    "text": "Was it one of those situations where even though there's no real consequence for it, you just get completely, unreasonably angry about it?"
+  },
+  {
+    "depth": 0,
+    "minus": 1,
+    "name": "connellingus",
+    "plus": 2,
+    "snip": false,
+    "text": "Can anyone think of examples of where Ray drops gerunds?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "shmuckeles",
+    "plus": 2,
+    "snip": false,
+    "text": "big ups to T on his mad sass. he colds knocks it out.   <br/> \nand what is a dropped gerund? is that all \"I'm GON fix it tomorrow\"?"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "laserblade",
+    "plus": 0,
+    "snip": false,
+    "text": "My favorite part is that it's actually a terrible impression of Ray.  It reduces the complex roots of Ray's speech patterns to a caricature of Ebonics.  But it's exactly the impression Teodor would do of Ray."
+  },
+  {
+    "depth": 2,
+    "minus": 0,
+    "name": "rowboat",
+    "plus": 1,
+    "snip": false,
+    "text": "Teodor thinks that it is rad to have racism."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "brinstar",
+    "plus": 1,
+    "snip": false,
+    "text": "Oh man, T\u00e9odor straight up lampooned him!"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "greenkoolayd",
+    "plus": 1,
+    "snip": false,
+    "text": "you like diesel sweeties! [[high 5]]"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "stuart",
+    "plus": 1,
+    "snip": false,
+    "text": "Why does Teodor choose this moment to mock Ray?"
+  },
+  {
+    "depth": 1,
+    "minus": 0,
+    "name": "professorhazard",
+    "plus": 1,
+    "snip": false,
+    "text": "Because he is Onstad's mouthpiece, and Onstad was feeling some sass in him that day."
+  },
+  {
+    "depth": 2,
+    "minus": 1,
+    "name": "stuart",
+    "plus": 1,
+    "snip": false,
+    "text": "HOLY FUCKING SHIT IT'S HAZARD OH SHIT OHHHHHHH SHIT"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "phthoggos",
+    "plus": 1,
+    "snip": false,
+    "text": "I also blow it about almost a tenth of the time. It gives me Stress."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "xiaomimi",
+    "plus": 20,
+    "snip": false,
+    "text": "<strong>Today's Blogs</strong> <br/> \n <br/> \nOnstad:  <a href=\"http://web.archive.org/web/20110510021357/http://chrisonstad.blogspot.com/2005/03/rei-womb.html\">REI Womb</a>"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "hawaiian_robot",
+    "plus": 0,
+    "snip": false,
+    "text": "This strip was the perfect 21st birthday present."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "redmange",
+    "plus": 0,
+    "snip": false,
+    "text": "I said Chocolate Love a lot before I saw this strip, but seeing the strip makes me feel vindicated in it's usage."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "epicurus",
+    "plus": 1,
+    "snip": false,
+    "text": "What always bothered me is how badly they underestimated the difficulty of \"cocking up\" a machine that folds 8&1/2\" by 11\" paper into perfect thirds to fucking  <em>roll joints automatically</em> . Not like Ray and Lyle are pushing a lifetime of experience fucking with paper folding instruments."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "alzuna",
+    "plus": 0,
+    "snip": false,
+    "text": "I read this again just now and wondered why I did not give it a 5. Teodor gets sassy."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "genequagmire",
+    "plus": 0,
+    "snip": false,
+    "text": "\"up ins\".  Coach Z reference?"
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "carlyle",
+    "plus": 0,
+    "snip": false,
+    "text": "I always thought Ray had dialed the wrong number."
+  },
+  {
+    "depth": 0,
+    "minus": 0,
+    "name": "travo",
+    "plus": 0,
+    "snip": false,
+    "text": "This is a prime example of the strip taking unexpected turns from start to finish."
+  }
+]
